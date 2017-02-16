@@ -15,4 +15,8 @@ class CreateNetworks < ActiveRecord::Migration
       t.integer :channel
     end
   end
+
+
+
+
 end
